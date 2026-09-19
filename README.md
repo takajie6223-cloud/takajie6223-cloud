@@ -11,6 +11,6 @@
   <img alt="contribution snake" src="https://raw.githubusercontent.com/takajie6223-cloud/takajie6223-cloud/output/github-snake.svg" />
 </picture>
 
-![stats](https://github-readme-stats.vercel.app/api?username=takajie6223-cloud&show_icons=true&hide_border=true) ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takajie6223-cloud&layout=compact&hide_border=true)
+![连续提交](https://streak-stats.demolab.com/?user=takajie6223-cloud&hide_border=true&locale=zh_Hans)
 
 ![visitors](https://komarev.com/ghpvc/?username=takajie6223-cloud&style=flat-square&color=blueviolet)
